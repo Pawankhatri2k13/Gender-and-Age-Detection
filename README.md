@@ -1,6 +1,4 @@
-# Gender-and-Age-Detection   <img alt="GitHub" src="https://img.shields.io/github/license/smahesh29/Gender-and-Age-Detection">
-
-<h2><a href="https://pythonista29.stores.instamojo.com/" >Visit Store for more intresting Project</a></h2>
+# Gender-and-Age-Detection 
 
 <h2>Objective :</h2>
 <p>To build a gender and age detector that can approximately guess the gender and age of the person (face) in a picture or through webcam.</p>
@@ -60,11 +58,11 @@
 <h2>Examples :</h2>
 <p><b>NOTE:- I downloaded the images from Google,if you have any query or problem i can remove them, i just used it for Educational purpose.</b></p>
 
-    >python detect.py --image girl1.jpg
+    >python detect.py --image man.jpg
     Gender: Female
     Age: 25-32 years
     
-<img src="Example/Detecting age and gender girl1.png">
+<img src="Example/Detecting age and gender man.png">
 
     >python detect.py --image girl2.jpg
     Gender: Female
@@ -105,6 +103,5 @@
 # Support :
 If you found this project helpful or you learned something from the source code and want to thank me, consider me to pay my internet bills. This would encourage me to create many such projects 👨🏻‍💻
 <ul>
-    <li><a href="https://www.paypal.me/smahesh29"><b>PayPal</b></a></li>
-    <li><b>UPI ID :</b> maheshusa29@oksbi</li>
+    <li><a href="https://www.paypal.com/paypalme/pawandevkhatri"><b>PayPal</b></a></li>
 </ul>           
